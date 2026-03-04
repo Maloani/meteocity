@@ -1,2 +1,16 @@
 # meteocity
-MeteoCity est une application numérique dédiée à la collecte, à l’analyse et à la diffusion d’informations météorologiques en temps réel. Elle fournit des prévisions locales précises, des alertes climatiques et des visualisations interactives permettant aux utilisateurs d’anticiper les conditions atmosphériques.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
